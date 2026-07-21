@@ -6,9 +6,9 @@ An advanced, real-time machine learning pipeline designed to ensure the safety a
 
 ## Abstract & Project Overview
 
-Modern nuclear power plants (NPPs) generate high-dimensional, highly correlated multivariate time-series data that challenge traditional statistical and shallow machine learning monitoring tools. This project introduces a robust, real-time **Transformer-based Anomaly Detection and Classification System** tailored for Pressurized Water Reactors (PWRs) [cite: 1]. 
+Modern nuclear power plants (NPPs) generate high-dimensional, highly correlated multivariate time-series data that challenge traditional statistical and shallow machine learning monitoring tools. This project introduces a robust, real-time **Transformer-based Anomaly Detection and Classification System** tailored for Pressurized Water Reactors (PWRs). 
 
-Trained on the **Nuclear Power Plant Accident Dataset (NPPAD)** derived from PCTRAN (Personal Computer Transient Analyzer) simulations [cite: 1], the model leverages self-attention mechanisms to capture complex, long-term temporal dependencies across diverse operational and transient states. Comprehensive benchmarking demonstrates superior performance over conventional Recurrent Neural Networks (RNN-LSTM/GRU) and Convolutional Neural Networks (CNNs) in terms of early detection latency, false-positive reduction, and multi-class accident identification accuracy.
+Trained on the **Nuclear Power Plant Accident Dataset (NPPAD)** derived from PCTRAN (Personal Computer Transient Analyzer) simulations, the model leverages self-attention mechanisms to capture complex, long-term temporal dependencies across diverse operational and transient states. Comprehensive benchmarking demonstrates superior performance over conventional Recurrent Neural Networks (RNN-LSTM/GRU) and Convolutional Neural Networks (CNNs) in terms of early detection latency, false-positive reduction, and multi-class accident identification accuracy.
 
 ---
 
