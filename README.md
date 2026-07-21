@@ -58,8 +58,8 @@ npp-anomaly-detection/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/daniyalnazeere/npp-anomaly-detection.git
-   cd npp-anomaly-detection
+   git clone https://github.com/daniyalnazeer55/anomaly_detection_nuclear_power_plant.git
+   cd anomaly_detection_nuclear_power_plant
    ```
 
 2. **Install system utility dependencies (for archive extraction):**
