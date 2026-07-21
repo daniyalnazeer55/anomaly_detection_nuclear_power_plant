@@ -58,7 +58,7 @@ npp-anomaly-detection/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/npp-anomaly-detection.git
+   git clone https://github.com/daniyalnazeere/npp-anomaly-detection.git
    cd npp-anomaly-detection
    ```
 
@@ -83,7 +83,7 @@ npp-anomaly-detection/
 ## Pipeline Usage
 
 ### 1. Preprocessing & Data Loading
-Run the preprocessing script or open `notebooks/01_eda_preprocessing.ipynb` to clean sensor readings, handle missing attributes, normalize values, and segment time-series data using sliding windows.
+Run the preprocessing script or open `notebooks/Data Processing.ipynb` to clean sensor readings, handle missing attributes, normalize values, and segment time-series data using sliding windows.
 
 ### 2. Training the Models
 To train the transformer model or benchmark baselines, execute the core training script:
