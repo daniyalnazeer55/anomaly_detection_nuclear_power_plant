@@ -16,7 +16,7 @@ Trained on the **Nuclear Power Plant Accident Dataset (NPPAD)** derived from PCT
 
 * **Advanced Transformer Architecture:** Utilizes self-attention layers to handle high-dimensional sequential data and complex temporal dependencies far more effectively than traditional CNNs or RNNs.
 * **Comprehensive Benchmark Suite:** Evaluated against baseline models including 1D-CNNs and stacked LSTMs across metrics such as inference latency, false-positive rate, and time-to-detection.
-* **Dataset Integration:** Built for processing the simulated **NPPAD** dataset containing normal baseline operations alongside 18 distinct nuclear accident scenarios for a two-loop Pressurized Water Reactor [cite: 1].
+* **Dataset Integration:** Built for processing the simulated **NPPAD** dataset containing normal baseline operations alongside 18 distinct nuclear accident scenarios for a two-loop Pressurized Water Reactor.
 * **Real-time Monitoring Capability:** Structured for fast sequence chunking and sliding-window feature extraction to flag structural deviations instantly.
 
 ---
